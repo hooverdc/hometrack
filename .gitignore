@@ -1,0 +1,7 @@
+# backend
+.venv
+
+# frontend
+
+# secrets
+*.env
