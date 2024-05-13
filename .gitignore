@@ -1,7 +1,10 @@
 # backend
 .venv
 __pycache__
+db.sqlite3
+
 # frontend
 
 # secrets
 *.env
+environment.sh
